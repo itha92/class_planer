@@ -1,0 +1,1188 @@
+Angela	Jackson ,	PSE407 # FIN208 # LOG301 # CEHG-03
+Maria	Bennett ,	PSE404 # IND418 # ING107
+Johnny	Watson ,	ARQ342
+Dorothy	Edwards ,	IND306
+Pamela	Russell ,	ART111 # ADM401 # CCC505 # ELE302
+Norma	Thompson ,	DCD204 # MER203 # MEC301
+Raymond	Cox ,	TLL311 # MEC300 # FRA103
+Jean	Allen ,	CIV401 # LOG401 # NUE101
+Jesse	Lopez ,	ITA104 # SOC101 # ECO301
+Joe	Hall ,	ARQ222
+Gary	Ramirez ,	DGR300 # LCP104 # PSE106 # NUE101
+Deborah	Bell ,	DGR301 # CPSS-01 # PSE207
+Todd	Gonzalez ,	NUE203 # MER312 # ARQ404 # DGR405
+Eugene	Martinez ,	IND303 # DGR102
+Craig	Anderson ,	MAT302 # BMD201
+Stephanie	Campbell ,	POR101 # HIS101
+Carol	Phillips ,	MAT201 # CCC505 # NUE303 # CIV303
+Beverly	Morgan ,	TLL300 # ARQ427 # DGR300
+Roger	Robinson ,	COM204 # REH101 # REL319
+Brandon	Patterson ,	FIN414 # CFP-01 # ESP102 # DER320 # DER415
+Russell	Parker ,	ART106
+Justin	Moore ,	PSE214 # DER305 # NUE301 # DGR304
+Doris	Coleman ,	TLL301 # IND427 # ARQ222
+Roy	Barnes ,	IND513 # NUE102 # ING108 # PSE312
+Judith	Wood ,	DCD202 # IND419 # COM409
+Nicholas	Thomas ,	CIV301
+Bobby	White ,	POR101 # DER410
+Emily	Harris ,	SEL303 # FIS203 # MAT106 # HIS101 # COM105
+Ruby	Alexander ,	ARQ428 # HIS101 # MAT304 # DCD302 # MER209
+Albert	Griffin ,	CEAO-08 # DER202
+Stephen	Lee ,	NADG 4 # FIN401 # ITA101 # ADM407
+Charles	Green ,	CIV404 # REH102 # DGR102 # PSE108
+Lori	Cooper ,	ADM105 # COM404 # MER209
+Billy	Flores ,	CEER-15 # CIV504 # PSE211 # DCD202 # DER211
+Lillian	Walker ,	DGR202
+Martin	King ,	COM404 # CCC207 # ECO206
+Rebecca	Diaz ,	HIS101 # ESP102 # BMD201
+Susan	Garcia ,	DER218 # SOC101 # HIS301 # COM209
+Bonnie	James ,	TEL402
+Frances	Bryant ,	CIV403 # COM201 # DER204 # SEL306
+Amy	Simmons ,	IND309 # CIV306 # DER306 # BMD403 # DER107
+Alan	Ross ,	CICA-06 # MAT202 # ADM301
+Benjamin	Clark ,	ING110 # PSE109 # PSE405 # ECO103
+Thomas	Perez ,	CEPA-05 # HIS101 # ARQ438 # PSE103
+James	Wright ,	CIV403
+Diane	Turner ,	FIS204 # CDA-03
+Ronald	Miller ,	CEHG-08 # DCD204
+Adam	Evans ,	DER311 # CICA-06 # DGR101 # ARQ335 # ARQ404
+Brenda	Jenkins ,	CEAO-10
+George	Henderson ,	CCC405 # COM214 # CFP-04 # NUE205 # CIV314
+Jerry	Mitchell ,	MER409 # DER203
+Joshua	Jones ,	HIS301 # CPO101 # CGTH-05
+Carl	Butler ,	IND303
+Helen	Kelly ,	FIN401 # CIV306 # IND309 # MER203
+Richard	Martin ,	REL104 # EMP402 # BMD303 # CIV409
+Elizabeth	Peterson ,	INF401 # CICA-06 # DER418 # CIV409
+Brian	Howard ,	TUR304 # PSE313 # CON210 # NUE207 # DER109
+Mildred	Price ,	DER321 # ARQ344 # MER207
+Cheryl	Foster ,	IND419 # CPO401 # CFP-04 # COM426
+Harold	Collins ,	CIV314
+Louis	Smith ,	DER313 # ESP101 # ADM105 # MAN103
+Howard	Gonzales ,	MAT109
+Jacqueline	Torres ,	SEL407 # REL403 # TUR304 # CIV302
+Timothy	Sanders ,	FRA104 # REH102
+Tammy	Brown ,	DGR101 # HIS101 # COM104
+Jessica	Carter ,	ESP102 # MAT301 # MER203 # COM403
+Jose	Brooks ,	MEC300 # FRA103 # DGR101 # DCD302
+Victor	Reed ,	FIN414 # SEL407 # FIL402 # DER312
+Matthew	Rivera ,	DER113 # ARQ333
+Arthur	Taylor ,	ART106 # REL302 # CICA-07 # HIS101
+Christopher	Wilson ,	CEHG-10 # CPO101 # DGR202 # MAN103
+Anthony	Bailey ,	PSE304 # DER412
+Ralph	Washington ,	TUR304 # ARQ427 # HIS101 # MAT104
+Laura	Lewis ,	ESP102 # CICA-05
+Kathryn	Hughes ,	MAT304
+Rose	Johnson ,	CIV310 # COM309 # CIV412 # DER104
+Janice	Roberts ,	ECO301 # PSE108 # TUR408 # ECO102
+Shirley	Baker ,	CEER-10 # NUE204 # TLL314
+Anne	Hill ,	CEOF-07
+Linda	Rodriguez ,	ARQ344 # ING115 # ARQ504 # ESP102
+Jeffrey	Richardson ,	CCC105
+Lisa	Cook ,	DER306 # MAT106 # ALE102 # CSI-03 # MER202
+Anna	Hernandez ,	FIN401
+Andrea	Perry ,	NUE203 # IND413 # DER412 # MAN102
+Teresa	Ward ,	CICA-05 # ARQ429 # DCD204 # ART106 # IND405
+Paula	Davis ,	MAT303 # CIV402
+Gloria	Rogers ,	PSE405 # SEL904
+David	Powell ,	DER218 # DCD206 # REL314
+Rachel	Stewart ,	CFP-05 # FIS202 # COM309
+Jimmy	Gray ,	DER204 # CIV309
+Nicole	Morris ,	DER405
+Phillip	Scott ,	BMD301 # CEHG-10 # FIS205 # DER321
+Joyce	Sanchez ,	IND307 # CCC406 # ALE102 # TEL101
+Eric	Williams ,	ARQ101
+Wanda	Long ,	DER215 # CCD-4
+Mark	Adams ,	MEC306 # BIO202
+Patricia	Nelson ,	SEL308 # NUE207 # ART106
+Philip	Young ,	CIV401 # TLL308 # FIS202 # SEL901 # CPO307
+Lois	Murphy ,	PSE208
+Diana	Hughes ,	SEL309 # DER204 # LCP104 # EMP401
+Mildred	Bailey ,	CEOF-07 # COM309
+Matthew	Phillips ,	COM409 # ADM103 # DER107
+Richard	Miller ,	DER214
+Melissa	Patterson ,	TUR306 # ITA104 # PSE315 # MAT106 # HIS101
+Keith	Gray ,	NUE208 # MAT210 # DER107
+Deborah	Morris ,	SEL904
+Carolyn	Long ,	TLL300 # CEER-10
+Justin	Bryant ,	DGR202
+Peter	Walker ,	ECO401
+Frances	King ,	LCI501 # HIS101 # ECO102 # DER306
+Wanda	Gonzalez ,	CDA-03 # COM213
+Martin	Martin ,	PSE303 # ART106
+Terry	Thompson ,	ARQ103 # DER410 # FIN303
+Joyce	Johnson ,	ADM303 # DER215 # POR104
+Jennifer	Sanchez ,	ADM407 # REL307
+Phyllis	Murphy ,	COM204 # DER103 # CPO101 # DER401
+Steve	Harris ,	CFP-04
+Nancy	Barnes ,	COM209 # DER312
+Scott	Watson ,	BMD406 # DGR102 # LOG403 # ART108 # MAT301
+Carl	Roberts ,	HIS101 # CIV301 # FIN207
+Denise	Lopez ,	IND309
+Martha	Lewis ,	CCC302 # FIN402 # CDA-01 # ECO301 # FIN207
+Margaret	Reed ,	BMD406
+Michael	Williams ,	MER401
+Betty	White ,	BMD406
+Carlos	Cook ,	TLL308 # COM310 # MAN102 # LCI301 # CEHG-09
+Benjamin	Ramirez ,	INF405
+Gregory	Richardson ,	SEL401 # COM406 # HIS101
+Jacqueline	Collins ,	CON210 # ARQ241 # CCC407 # FRA102
+Catherine	Cooper ,	PSE316 # DER112
+Theresa	Bennett ,	ARQ103 # CIV312
+Julia	Moore ,	DER304 # NADI 2 # MEC101 # BMD406 # SEL406
+Paul	Taylor ,	ART107
+Patrick	Evans ,	MAT106 # DEP110
+John	Green ,	MAT105 # CON210 # DER215 # NUE208
+Rachel	Parker ,	ART107 # BIO201 # ITA101
+Roger	Nelson ,	SEL406 # TUR209 # MAN104 # FIN408
+Jason	Jenkins ,	CDI-3 # DGR405 # PSE205 # DER303 # INVES-01
+Doris	Rodriguez ,	ESP103
+Sean	James ,	ART106
+Amy	Garcia ,	DER315 # DER217 # ARQ103
+Russell	Scott ,	COM209 # BIO201 # DER209 # FIL402
+Ruby	Wood ,	FRA101 # INF401 # TEL402
+Virginia	Young ,	DGR102 # IND307 # INVES-01
+Ernest	Price ,	COM403 # MEC302
+Clarence	Rivera ,	MAT301 # COM316 # TLL301
+Rebecca	Kelly ,	MAT301 # MAT210
+Billy	Wilson ,	ARQ335 # COM104
+Paula	Coleman ,	CIV402
+Jesse	Brown ,	CCC306
+Janet	Russell ,	ECO102 # FRA102
+Adam	Wright ,	ESP101 # DER425
+Judith	Butler ,	CON204 # ITA103 # CIV202
+Andrea	Alexander ,	SOC101
+Stephen	Cox ,	CIV413
+Susan	Adams ,	ART106 # CIEC-08
+Pamela	Perry ,	TUR408 # CFP-05 # CCC208 # CON302
+Gerald	Clark ,	ARQ241 # CEAO-10
+Walter	Hill ,	DER211 # COM207 # CEHG-08
+Heather	Carter ,	HIS302 # ARQ429 # IND406 # COM303 # BIO202
+Harry	Hall ,	ALE102 # ART105 # NUE205 # DER219
+Philip	Martinez ,	BMD402
+Earl	Peterson ,	DER113 # DCD302 # EMP401 # CIV406
+Carol	Stewart ,	PSE205 # MAT109 # REL104 # ART111 # CICA-07
+Brandon	Gonzales ,	DEP101 # DER304 # BMD407 # SEL407
+Shawn	Ross ,	MER304 # BMD405 # ARQ103 # ART106 # DER215
+Jeffrey	Diaz ,	CIV312 # ARQ333 # INF301 # ART102
+Lawrence	Simmons ,	ARQ303 # COM307 # ECO401 # ADM103
+Shirley	Ward ,	CEHG-05 # REH102
+Beverly	Bell ,	CIEC-08 # MAT102 # ARQ222 # EMP401
+Jimmy	Washington ,	COM104
+Kenneth	Rogers ,	MER209 # CIV403
+Robert	Henderson ,	ARQ438 # ART102
+Christine	Edwards ,	REL491 # MAT205 # CEHG-07
+Johnny	Hernandez ,	ADM303 # COM310 # REL316 # COM311 # COM308
+Annie	Morgan ,	FIL102 # COM307 # ART105
+Victor	Torres ,	ING113 # CIV503 # MER409 # MAT103 # LCC102
+Kathleen	Foster ,	LOG401 # COM215 # ECO401 # IND302
+Dennis	Turner ,	NUE301 # PSE309 # ING110 # IND302
+Joan	Jackson ,	ITA103 # CCC306
+Douglas	Powell ,	COM303
+Jose	Baker ,	CGTH-05 # COM316 # ALE102
+Ryan	Anderson ,	ARQ438 # HIS101 # INVES-01 # CIV103 # ITA102
+Teresa	Perez ,	DER203 # CCC208 # TLL306 # BMD402 # LCI302
+Samuel	Thomas ,	PSE211 # CIV314
+Jean	Brooks ,	MEC405 # CCC406
+Sharon	Griffin ,	CPSS-01 # EMP401 # CIV402
+Sandra	Jones ,	COM103 # DGR100
+Cheryl	Howard ,	DGR202 # CDI-1 # COM307
+Judy	Allen ,	COM215
+Randy	Smith ,	DEP109 # ECO201
+Craig	Campbell ,	LCI304 # FIS201 # DCD201
+Cynthia	Davis ,	ARQ303
+Sarah	Robinson ,	CDA-02 # TUR209 # CEHG-03 # CIV504
+Angela	Flores ,	CSI-03 # LOG401 # CFP-01 # CEHG-09 # MEC402
+Larry	Mitchell ,	BMD303
+Lois	Lee ,	MER407 # ESP101
+Kimberly	Sanders ,	CDA-02 # DEP107 # CEHG-09 # IND427
+Carl	Martinez ,	PSE405 # CEHG-08
+Jean	Washington ,	PSE301 # NUE207 # REL491
+Julia	Lopez ,	PSE407 # SOC101 # PSE311
+Anne	Coleman ,	MAT202 # NUE303 # CPO307
+Douglas	Cox ,	DER217 # COM406 # INVES-01 # DER110
+Susan	Griffin ,	DER202 # CIV310
+Kenneth	Foster ,	DER111 # MEC301 # HIS301 # TUR410 # COM403
+Sharon	Anderson ,	FIS204 # CCC411 # CIV312 # DCD202
+Lois	Cook ,	MAT210 # DER217
+Lillian	Torres ,	DER215 # CIEC-07 # ARQ438 # COM423
+Victor	Rodriguez ,	MER304 # HIS101 # FIN305
+Earl	Gonzales ,	ART106 # CFP-02 # BMD100 # SEL901 # NUE101
+Thomas	Turner ,	DGR101 # IND307 # DER306
+Tammy	Adams ,	CIV507 # CIV103 # CIV501 # HIS101
+Bruce	Wood ,	CEER-10 # ART102 # SEL901 # COM316
+Patricia	Martin ,	HIS101
+Paul	Howard ,	ADM403 # REL104 # IND418
+Jeremy	Rogers ,	ING108 # CIV412 # COM403 # TLL314
+Benjamin	Miller ,	FIN302 # DGR100
+Bonnie	Thompson ,	COM409 # NUE301
+Kathleen	Davis ,	DER410 # CCD-9 # IND302 # DER310
+Brandon	Ross ,	CON312 # FRA102
+Ronald	White ,	SEL308 # COM316
+Theresa	Williams ,	FIS204 # COM308 # HIS301 # DER104
+George	Walker ,	DGR100 # BMD304 # COM426 # CON308
+Joseph	Butler ,	DER114
+Alice	Clark ,	CIV305 # MAN103 # CIV401 # IND418 # BMD100
+Clarence	Nelson ,	TLL306 # MER314 # FIS204
+Donna	Hall ,	POR102
+Roger	Jenkins ,	DER321 # DER104 # TUR304 # DER418 # HIS101
+Eric	Hughes ,	DER305 # ALE101 # INF301 # CIV302 # CON312
+Andrew	Bailey ,	DER217 # IND309
+Walter	Patterson ,	CIEC-08 # DER321 # CIV413 # CPSS-03
+Irene	Lee ,	COM423 # CIV501 # LCP104
+Elizabeth	Moore ,	CDA-02 # MAN102 # PSE202
+Jesse	Powell ,	COM316 # CIEC-07 # SEL407 # ARQ212 # IND309
+Cynthia	Bryant ,	HIS101 # DGR102 # CEAO-09
+Arthur	Simmons ,	FIS202 # DER311
+Donald	Sanders ,	CCC407 # ARQ344 # MAT104 # ING109 # TEL409
+Justin	Morris ,	NUE101 # DER113
+Barbara	Hernandez ,	PSE110 # ADM104 # HIS101 # DER109
+Dorothy	Brooks ,	COM316 # NADIA1 # ART108 # DER211
+Keith	Wilson ,	CIV310 # BIO202 # DGR400 # CIV507 # LCP104
+David	Thomas ,	ART111 # LOG401 # SEL900 # CFP-02 # CPO307
+Kathy	Perez ,	ARQ401 # CFP-03 # DER113
+Fred	Cooper ,	FIN207
+Aaron	Watson ,	ART102 # PSE404 # FIN402
+Betty	Perry ,	DER107 # NUE204
+Harry	Campbell ,	CIV406
+Shirley	Robinson ,	CGTH-06 # PSE302 # MAT304 # PSE315 # MEC402
+Terry	Bell ,	CPO101
+Albert	Young ,	TEL902
+Craig	Rivera ,	DGR301 # ING108 # LOG403 # ING112
+Jerry	Long ,	CDI-3 # COM103 # MER408 # CCC406
+Angela	Ramirez ,	TUR408
+Jennifer	Lewis ,	NUE203 # LCC102 # DGR101
+Carlos	Wright ,	DCD101 # COM406
+Louise	Morgan ,	BIO201 # DER320 # DER113 # FIS202
+Norma	Garcia ,	ING112
+Mark	Carter ,	TUR209 # HIS101 # CEHG-03 # CDA-01
+Linda	King ,	ADM402 # CON210 # MAT203
+Samuel	Hill ,	IND404
+Ralph	Phillips ,	NADG 2 # TLL314 # FIL101
+Annie	Jones ,	COM306 # MAT303 # DER207 # CGTH-06
+Adam	Sanchez ,	DER320 # MEC300 # CCC302
+Emily	Alexander ,	MER205 # CIEC-09 # REH303 # IND418 # MAN103
+Scott	Peterson ,	COM403 # SEL900
+Catherine	James ,	MEC306 # CCC407 # IND303 # DER202 # MAT202
+Janice	Harris ,	MER409 # MAT107 # REH102
+Jose	Flores ,	INF201 # NUE208 # HIS101 # DER314
+Mary	Johnson ,	CFP-04 # CIV304 # NUE204
+Daniel	Green ,	DER205
+Sara	Parker ,	CCC405
+Doris	Taylor ,	ARQ103 # DEP110 # EMP401 # COM213 # INF301
+Joan	Gray ,	MAN104 # MAT304 # NUE208 # MEC405
+Pamela	Scott ,	DER321 # FIS205 # LCC101 # LCI302
+Louis	Richardson ,	LOG403 # DER425 # ADM301
+Rachel	Roberts ,	BIO202 # DER203 # CCC501 # ECO103
+Denise	Allen ,	TEL408 # SEL401
+Frances	Bennett ,	DGR400 # ALE101
+Heather	Kelly ,	TEL402 # FIS205
+Philip	Evans ,	ESP101
+Anna	Barnes ,	CCC302
+William	Murphy ,	POR101 # INV201
+Janet	Russell ,	ALE101 # CCC305 # MAT209 # PSE309
+Wayne	Price ,	CICA-05
+Evelyn	Mitchell ,	CCC208 # ECO301 # ING111 # PSE109
+Billy	Edwards ,	COM208 # NUE203 # ADM301 # CCC407 # PSE103
+Johnny	Stewart ,	PSE211
+Lisa	Collins ,	MAT103 # NADI 2 # PSE402
+Matthew	Baker ,	ARQ429 # CIV506 # DER402
+Anthony	Jackson ,	ITA103 # PSE303 # REL300
+Ruth	Smith ,	HIS101 # ARQ402 # MEC301
+Jason	Ward ,	CEHG-03 # COM421
+Phyllis	Reed ,	PSE303 # CIV409
+Harold	Henderson ,	MER314 # TEL101 # CDA-01
+Gregory	Diaz ,	HIS302 # HIS101 # DER107 # TUR408 # DGR202
+Kimberly	Brown ,	CCC104
+Phillip	Gonzalez ,	CDA-01
+Jason	Collins ,	HIS101 # ING110 # COM311 # CON203
+Andrea	Diaz ,	ARQ427 # MER309 # LCC104 # MAT202 # CPSS-01
+Arthur	Taylor ,	CIV302 # HIS101 # DER322
+Kimberly	Edwards ,	ARQ241 # CIV306 # COM204 # PSE109 # TUR208
+Marilyn	Evans ,	BMD409 # SEL301 # COM316 # CEER-12
+Phillip	Thompson ,	REL403 # LCP105 # PSE310 # MAT301
+Brandon	Barnes ,	ECO205 # COM309 # NADIA1 # INF301
+Lillian	Ward ,	MAN102 # ECO102 # TEL409 # ARQ427
+Doris	Kelly ,	CEER-11 # HIS101
+Dorothy	Baker ,	CEAO-10 # BMD100 # MAT209 # REL307 # CON308
+Martha	Davis ,	MEC301 # MAT304 # DER107 # HIS101 # NUE205
+Ruby	Powell ,	FIN401
+Ernest	Cook ,	ING106 # PSE301
+Rose	Rodriguez ,	ECO201
+Gary	Alexander ,	MER304 # NUE303 # CCC305 # MAT203
+Kathy	Nelson ,	CIV507 # MAT301 # HIS301 # DER310 # MEC402
+Nicholas	Lopez ,	CCC302 # DER204 # COM207 # ECO204
+Earl	Walker ,	IND418 # ING113
+Julia	Jenkins ,	CON203 # ARQ438 # MER209 # NADG 4 # DCD302
+Mary	Cooper ,	LCC104
+Judy	Robinson ,	CIV102 # CIV309 # DER404 # FIN208
+Tammy	Williams ,	LCP104 # ART105
+Donald	Young ,	CCC303 # COM310 # FIS205 # DEP110
+Sarah	Hill ,	POR103 # CEER-10 # MAT102
+Kathleen	Jones ,	HIS302 # ARQ103 # DER312
+Jean	Reed ,	ARQ438 # DER105
+Peter	Murphy ,	COM406 # DER404 # ARQ404 # CIV402 # COM315
+Willie	Bryant ,	DER306 # INF201 # MER202 # PSE108 # CIEC-09
+Adam	Campbell ,	CIV505
+Richard	Richardson ,	MEC101 # TLL301 # IND306 # MER309
+Christopher	Flores ,	DER418 # ADM403
+Howard	Rivera ,	MEC402 # MER304 # CEPA-05
+Irene	Wilson ,	SEL904
+Karen	Johnson ,	HIS101 # ING112 # ING105 # COM311
+Jennifer	Patterson ,	DER209 # DER313
+Katherine	Torres ,	MEC101
+Margaret	Brooks ,	MEC306 # ART107 # MAT209
+Alice	Sanders ,	CCC407
+Ronald	Parker ,	ECO102 # DER212 # IND309
+Joshua	Moore ,	CICA-06 # COM309 # MER401 # DCD201
+Annie	Griffin ,	POR102 # FIN303 # REL302 # SOC101 # COM215
+Benjamin	Henderson ,	LCC102 # ADM402 # BMD402 # MAT304 # DER424
+Keith	Butler ,	TUR410 # CCC306 # PSE308
+Jerry	Mitchell ,	SEL308 # LCP208 # DGR202
+Daniel	Bailey ,	CIV404 # PSE301
+Frances	Lewis ,	MAT002
+Johnny	James ,	TLL301 # LCI304 # CEER-11 # CCC306
+Craig	Coleman ,	PSE203 # COM307 # HIS101 # CEHG-05
+Randy	Foster ,	HIS101 # CIV301 # DGR101 # ARQ427
+Beverly	Martinez ,	DER404 # POR104 # CCC406 # ING112
+Gregory	Morris ,	TUR209 # LCC103 # NADI 2
+Julie	Bennett ,	ART106 # HIS101
+Christina	Ross ,	PSE203
+Bruce	Price ,	MER204 # IND101 # MER314 # PSE304
+Helen	Thomas ,	COM310
+Sandra	Perry ,	LCC101 # DER103
+Patrick	Peterson ,	PSE405 # CCD-4 # DCD206 # DER107
+Shawn	Watson ,	CON302 # CFP-05
+Gerald	Simmons ,	DER313 # CICA-05
+Raymond	Wright ,	POR102 # MAT002 # SEL306
+Ashley	Brown ,	REL307 # MAT210 # IND502 # HIS101 # ESP102
+Cynthia	Roberts ,	DGR300 # LCC101 # ARQ101 # NUE204 # DER113
+Mildred	Howard ,	REL316 # ARQ241 # HIS101 # CIV412 # CIV102
+Jacqueline	Phillips ,	MAT304 # MER208 # DER303 # IND309
+Phyllis	Gonzalez ,	NUE208 # DER104
+Philip	Harris ,	DCD202
+Martin	Cox ,	LSE402 # CEER-12 # COM316 # DER320
+Timothy	Lee ,	BMD406 # POR101
+Carol	Turner ,	DGR405
+Roger	Gray ,	HIS302
+Patricia	Scott ,	TLL311 # HIS101 # DER219 # MAT104 # FIN208
+Sean	Miller ,	FIN401
+Judith	Garcia ,	POR101 # MER207
+Douglas	Rogers ,	FIN414 # CIV306
+Henry	Gonzales ,	ADM301 # MAT103 # TUR304
+Marie	Allen ,	ADM403 # SEL406 # DER111 # COM215 # COM423
+Rebecca	Clark ,	MAT205 # MER204 # DER321 # INV201
+Dennis	Perez ,	CIV301 # MER204
+Billy	Carter ,	MAT302
+Bonnie	Smith ,	LCC101 # CIV301 # ART102 # ADM401
+Jane	Green ,	ART102 # NUE203
+Juan	Martin ,	INF301 # SOC101
+Pamela	Hughes ,	NUE302 # BMD403 # CEAO-08 # DER313
+Lawrence	Washington ,	DER312 # CIV504
+Carolyn	King ,	DER313 # PSE212 # LOG401 # ESP102 # ESP101
+John	Hall ,	ARQ404 # TUR103 # CEHG-09 # CCC401
+Anna	White ,	MAT201 # ARQ438 # ADM105
+Theresa	Morgan ,	CCC208 # PSE311
+Ryan	Sanchez ,	COM307 # ARQ429
+Sharon	Jackson ,	ITA103
+Kelly	Wood ,	ART108 # DER111 # NUE303 # CPSS-01 # COM402
+Steven	Adams ,	ING105
+Fred	Anderson ,	COM311 # ITA103 # FIS205 # COM204 # COM207
+Terry	Ramirez ,	ARQ401
+Emily	Hernandez ,	ART108 # PSE404 # NUE203 # REL319
+Walter	Long ,	IND403 # PSE405 # MER407
+Carlos	Russell ,	DCD101
+Joe	Stewart ,	FRA103 # CCC411 # HIS101 # CFP-02 # DER204
+Cheryl	Bell ,	NUE102 # BIO202 # CON302 # REL307
+Victor	Gonzales ,	ARQ205 # FIL402
+Carolyn	Ward ,	DER415 # FIL102
+Brandon	Perry ,	PSE407 # LCP104 # CEER-10
+Marilyn	Thomas ,	PSE208 # PSE106 # REL314 # SEL901
+Kathleen	Kelly ,	LOG403 # CFP-04 # CIV306
+Martha	Reed ,	ART105 # IND418
+Gerald	Gonzalez ,	CDA-05
+Kevin	Williams ,	MEC300
+Lillian	Harris ,	MAT302 # SEL902 # TLL300 # TEL409
+Heather	Walker ,	PSE407 # ART108 # MER202 # ESP102 # FIS203
+Philip	Wright ,	MEC101 # SEL401 # ADM402 # PSE311
+Doris	Morgan ,	COM421 # DER418 # ARQ100
+Amy	Hall ,	IND406 # MEC309 # DER214
+Mildred	Brooks ,	MAN103 # TUR103 # COM426 # DER202 # CPO401
+Anne	Peterson ,	DER209 # DGR101 # CIV305 # INV201
+Jennifer	Jenkins ,	ECO206 # DER114
+Henry	Flores ,	COM105 # BMD405 # DER410
+Norma	Adams ,	CIV406 # CON312
+Martin	Simmons ,	PSE312 # COM421 # CON204 # COM312 # MER209
+Earl	Russell ,	DGR405 # SEL904 # ING106
+Anthony	James ,	DER110 # CFP-04 # ECO301 # ART105
+Clarence	Clark ,	DGR301 # DER402 # COM213
+Terry	Campbell ,	CICA-05 # LCI302 # BMD100 # IND306
+Carlos	Washington ,	CPSS-01
+Mark	Lopez ,	CIV401 # ARQ303
+Jane	Allen ,	COM402 # CEAO-08 # HIS101
+Larry	Long ,	DGR301
+Jeremy	Griffin ,	CPSS-03 # COM421 # DER322 # CICA-07
+Edward	Cook ,	SEL309
+Kenneth	Thompson ,	IND306 # IND406 # DER110
+Betty	Bailey ,	ECO301 # MEC402 # HIS301 # ARQ333 # IND309
+Douglas	Lewis ,	CPO101 # NUE102 # TLL308 # BMD403 # CCC305
+Jessica	Patterson ,	CIV302 # DER204 # DER218 # COM309 # FIN414
+Joe	Parker ,	PSE310 # DER107
+Richard	Carter ,	CIV503 # HIS101
+Lisa	Davis ,	FIL402 # BMD201 # DER204 # INVES-01
+Theresa	Gray ,	DCD201 # ARQ404 # COM218 # SEL308 # FIN208
+Rachel	Richardson ,	CIV504 # TEL409 # CIV311 # SEL406 # CCC306
+Diane	Torres ,	NUE204 # POR102 # BMD304 # FIN302 # COM307
+Joyce	Ramirez ,	TUR410 # CDI-2 # NUE203 # SEL303 # CIV406
+Janet	Robinson ,	HIS101
+Elizabeth	Morris ,	CIEC-07 # PSE207 # IND417 # SEL904
+Paula	Roberts ,	MER309 # TUR408 # CON312 # ECO206
+Steve	Foster ,	CCC205 # CIV407
+Brenda	Bryant ,	CEOF-07 # ADM403
+Bonnie	Mitchell ,	COM209 # TEL408 # ADM401 # FIS205
+Harold	Murphy ,	DCD303
+Margaret	Jackson ,	CIV304 # IND405 # MEC101 # CEHG-09 # DER112
+Julie	Watson ,	ARQ100
+Wayne	White ,	COM101 # MAT105 # IND303 # REL491 # CPSS-02
+Tammy	Alexander ,	DGR301
+Robert	Howard ,	MER204 # DGR405 # REL319 # IND403
+Jimmy	Anderson ,	LCP104 # BMD407
+James	Johnson ,	ARQ342 # CCC302 # DGR300 # CDA-04
+Joan	Cox ,	PSE310 # REL305
+Sarah	Sanchez ,	FIS202 # DER423 # CEHG-05
+Ralph	Rodriguez ,	MAT201
+Wanda	Perez ,	CEER-10 # CDI-3 # ARQ103
+Deborah	Phillips ,	CEER-13 # HIS101
+Beverly	Turner ,	CEHG-03 # CEER-12
+Joshua	Green ,	TLL313 # FIL402 # LSE402
+Katherine	Scott ,	ARQ428 # ARQ427
+Albert	Moore ,	CDA-03 # COM402 # MEC408 # IND419
+Lori	Powell ,	ARQ428 # FIN408 # DGR100 # HIS101 # CSI-03
+Steven	Rogers ,	REL307 # ECO206 # CICA-06
+Cynthia	Nelson ,	ARQ100
+Julia	Barnes ,	SEL900
+Bobby	Edwards ,	NUE302 # NUE205 # DER313 # PSE205 # HIS101
+Debra	Garcia ,	MER207 # CIV304 # PSE203 # CCC303 # ART106
+Chris	Martinez ,	DER412 # MAT202 # MAT203 # ING107
+Alan	Miller ,	CIV102 # COM208 # HIS101 # LCC103
+Barbara	Henderson ,	NUE208 # BMD405
+Ashley	King ,	MAN103 # MER314 # CCC208
+Eugene	Bell ,	MEC402 # CCC105 # TLL300 # CCC207
+Craig	Butler ,	CIV506 # ADM105
+Jonathan	Wilson ,	HIS101 # ARQ414 # IND417 # DGR400
+Christopher	Stewart ,	IND302 # SEL901 # ARQ342 # MAT104 # FIN408
+Alice	Sanders ,	DEP101 # BMD201
+Donna	Collins ,	CIV309 # DER217
+Bruce	Lee ,	FIS205
+Stephen	Diaz ,	BMD303 # DER425 # SEL407
+Judy	Hughes ,	CIV404 # CCC404 # POR102 # LCI304 # MAT210
+Sharon	Price ,	IND404 # CEHG-10 # DER110 # CDI-1 # NADI 4
+Billy	Cooper ,	MER304 # DER202
+Kimberly	Jones ,	NUE208
+Gloria	Hill ,	MAT203 # ECO401 # BMD408 # DGR304
+Rebecca	Wood ,	MER304 # MEC301
+Johnny	Bennett ,	CCC406 # MER408 # FIN305 # CIV305 # CON308
+Joseph	Coleman ,	NADI 2 # MAT109 # ECO201 # COM312
+Karen	Smith ,	MER202 # CIV501
+Juan	Taylor ,	ARQ212 # NUE204 # COM406
+William	Baker ,	HIS101 # NUE101 # MAT209 # ELE302
+Ernest	Hernandez ,	CCC504
+Samuel	Martin ,	ECO102 # CCC207 # TLL313
+Helen	Young ,	INVES-01 # COM208 # CEER-12 # ARQ335 # CEAO-09
+Ronald	Evans ,	DER103 # ART106 # CIV305 # INVES-01
+Amanda	Rivera ,	COM406 # COM403 # DER315 # DER322 # MER304
+Louise	Brown ,	COM308 # PSE407 # NADG 2 # CPO307
+Stephanie	Ross ,	TLL306 # ART108 # DER206 # TUR408
+Peter	Martinez ,	FIS205 # LCC103 # DGR100 # FRA102 # CIV306
+Lawrence	King ,	ART106
+Christina	Brown ,	IND302
+Kenneth	Long ,	LCP208 # FRA104
+Howard	Diaz ,	COM315 # MER401 # ING109 # CON312
+Virginia	Smith ,	DGR301 # PSE315 # FIS201
+Michelle	Martin ,	CDA-04 # DEP109
+Timothy	Bryant ,	TUR208 # IND427 # HIS302 # CCC105 # DEP110
+Andrew	Garcia ,	PSE308 # MAT303 # MER314 # ARQ222
+Samuel	White ,	HIS101 # DER310 # IND404 # ART106
+Joseph	Turner ,	MER202 # DER209 # CGTH-05 # CON210 # IND307
+Denise	Howard ,	DCD204
+Janice	Hernandez ,	COM402 # PSE106 # CCC205 # IND419
+Phillip	Cooper ,	ECO201
+Angela	Rivera ,	ITA101
+Tammy	Davis ,	CFP-03 # DGR300 # HIS101 # IND521 # ECO205
+Evelyn	Reed ,	NADG 2 # CCC105 # DER113
+Louis	Moore ,	ING110
+Philip	Thomas ,	CIEC-07
+Bonnie	Cook ,	ECO103 # CEAO-08 # CCC411 # ART105 # CEER-12
+Pamela	Harris ,	BMD100 # BMD304 # PSE312 # IND502
+Patrick	Richardson ,	MEC101 # DER203 # TUR209 # DER305
+Ashley	Stewart ,	NUE204 # DER211 # DER114
+Joan	Taylor ,	ARQ504 # CIEC-07 # ARQ344
+Jeffrey	Sanders ,	PSE407 # MER304 # PSE302 # FIS204 # IND417
+Russell	Barnes ,	REH302
+Roger	Flores ,	DER312 # CEAO-09 # ARQ427
+Phyllis	Roberts ,	ADM301 # IND307 # CIV303 # DGR202 # BMD409
+Dennis	Hill ,	MAT202 # CPSS-03 # REL305 # POR102 # CCC105
+Lois	Jones ,	DER112 # ART105 # REL319 # CEHG-05
+Jessica	Bennett ,	CIV412
+Ryan	Hughes ,	CIV506 # DER401
+Eugene	Russell ,	EMP402
+Mary	Adams ,	PSE313 # DER312
+Judith	Johnson ,	COM307 # REH302 # DER212 # CIV312 # NADG 4
+Billy	Mitchell ,	ARQ427 # TUR103 # IND413 # SEL406
+Joyce	Thompson ,	BMD409
+Martha	Clark ,	TUR408 # BIO202 # DCD303 # COM311
+Kathy	Gonzalez ,	COM423
+Gary	Brooks ,	HIS101 # TLL301 # CEHG-07 # MER204
+Kevin	Henderson ,	BMD201 # ING113 # COM303 # CIV305
+Carol	Patterson ,	LCC103
+Joe	Sanchez ,	DCD302
+Catherine	Gray ,	CIV413
+Paul	Lewis ,	REL319 # HIS101
+Gerald	Gonzales ,	ART102 # EMP402 # PSE302 # ECO206 # MAT102
+Andrea	Baker ,	DER311 # CEER-13 # ELE302 # DGR100 # SEL309
+Brian	Perez ,	MER314 # CIV407
+Irene	Young ,	CPSS-03 # FIS205
+Donna	Carter ,	LCI301 # SEL904 # NUE207 # COM423
+Shawn	Scott ,	TLL314 # ECO301 # COM204
+Henry	Rodriguez ,	TLL314 # CIV311
+Cynthia	Powell ,	COM426
+Gregory	Parker ,	DER212 # BMD303 # FIS201 # COM309
+Paula	Washington ,	FIN207 # POR101 # REL104 # CIV504 # ARQ428
+Ruth	Miller ,	MAT002 # COM315 # CFP-03
+Adam	Wilson ,	LCP105 # DER113
+Raymond	Phillips ,	COM214 # MAT205 # PSE312 # ADM403
+Johnny	Perry ,	BIO202
+Anne	Collins ,	LCP208 # ING107 # ADM407
+David	Price ,	ING113 # MEC408 # COM104 # MAT303 # CCC405
+Sarah	Edwards ,	MER312
+Matthew	Morris ,	CCC306
+Judy	Ward ,	DER217 # TUR209 # CEER-12 # LCI301
+Wayne	Campbell ,	TEL101 # REL103 # IND521 # DER114
+Michael	Alexander ,	DER203 # PSE310 # TUR306 # CCC411
+Amanda	Murphy ,	PSE208 # ARQ401 # DGR202
+Deborah	Lopez ,	DER107
+Dorothy	Wright ,	LCI304 # CIV310
+Barbara	Jackson ,	CIV103 # EMP402 # BMD303
+Steven	Nelson ,	COM204 # NADI 2 # DEP109 # HIS101 # CDI-2
+Ann	Green ,	DER322 # FIN408 # CEPA-05 # MAN101 # ING112
+Marilyn	Anderson ,	BMD100 # IND427 # REL314 # CCC401
+John	Rogers ,	PSE103 # ECO401
+Albert	Watson ,	DER305 # CCC306 # ART107
+Kathleen	Jenkins ,	CIEC-09 # DER405 # CCC106 # MAN103
+Fred	Griffin ,	ARQ335 # CFP-04 # COM215 # IND306 # CIV305
+Jack	Bailey ,	MER409 # BIO201 # COM403 # CDA-02 # COM311
+Carolyn	Allen ,	PSE107 # CON204
+Douglas	Foster ,	REH302 # FIS204
+Bobby	Coleman ,	SEL903 # DEP110 # COM423 # DER109
+Ronald	Wood ,	ING105 # CDI-1 # ARQ504
+Cheryl	Ross ,	CFP-05 # BIO203
+Teresa	Evans ,	ESP102 # FIL402
+Martin	Ramirez ,	CPO101
+Katherine	Peterson ,	MAT203 # ART105
+Nicole	James ,	SEL901 # REL103
+Walter	Lee ,	PSE302 # MER309 # PSE208 # CDA-03
+Ernest	Robinson ,	MAT201 # POR101
+Joshua	Bell ,	FRA104 # DCD303 # ARQ401 # MEC300
+Christopher	Williams ,	POR101 # FIS203 # CCC303
+Rose	Walker ,	IND521 # CIV103 # BMD408 # TLL313
+Amy	Hall ,	COM307
+Terry	Simmons ,	DER322 # ARQ438 # DGR100 # COM306
+Diana	Butler ,	CPSS-02
+Keith	Morgan ,	CIV310
+Jean	Kelly ,	REH101 # COM215 # CCC504 # SEL902
+Arthur	Torres ,	MAT205 # MAT303 # LCI302 # CIV311
+Brandon	Cox ,	MER207 # CEER-10 # FRA103
+Andrea	Harris ,	CCC105 # IND521 # ARQ301 # HIS101
+George	Ward ,	ART106 # REL300
+Bonnie	Jones ,	COM404 # DGR102 # DEP110
+Anna	Watson ,	ADM301
+Paul	Campbell ,	CIV305 # NADG 2 # DER312
+Jean	Rogers ,	CDI-2 # CCC305 # DGR301 # BMD408
+Harold	Wood ,	FRA104 # BIO201 # LOG401
+Ralph	Taylor ,	CIV302 # MER312 # LCP104
+Louise	Lee ,	ARQ303
+Theresa	Perez ,	CIV503 # POR101
+Timothy	Smith ,	CEER-15 # ARQ103 # ING113 # MEC309 # MAT107
+Diane	Murphy ,	TEL904 # CIV409 # CEER-13 # IND427 # DER111
+Janet	Morgan ,	ECO201
+Judy	Griffin ,	CEER-10
+David	Walker ,	REH102
+Henry	James ,	LCI302
+Anne	Richardson ,	IND101 # PSE110
+Roy	Bryant ,	LCC103 # CEER-15
+Arthur	Green ,	CCC104 # ARQ241 # FIN402
+Jacqueline	Moore ,	ECO201 # DCD202 # PSI202 # DGR101 # MEC408
+Ashley	Williams ,	CIV306 # DGR400 # DER105
+Chris	Hernandez ,	CEOF-07
+Emily	Adams ,	PSE211 # REH101 # HIS101 # IND418 # SEL406
+Benjamin	Simmons ,	SEL406 # MAT202 # NUE205 # CEHG-05
+Kenneth	Ramirez ,	REL314 # CIV413 # CCD-9 # CFP-01 # CCC407
+Shirley	Bell ,	COM307 # DER109 # ING109 # CCD-4 # SEL903
+Jose	Ross ,	MAT002
+Denise	Robinson ,	BMD402 # COM403
+Ruth	Allen ,	CICA-05 # COM310 # CIV506 # HIS101 # DER110
+Todd	Thompson ,	CCC303 # COM215 # MEC402 # SEL309 # REL305
+Randy	Long ,	ARQ325 # CEHG-10 # FIS203 # DER322 # IND307
+Carlos	Reed ,	CON308 # COM204 # PSE303 # ESP102
+Rebecca	Thomas ,	TUR208
+Willie	Wilson ,	FIN303 # COM209
+Susan	Hughes ,	CSI-03 # DGR304
+Helen	Carter ,	CIV506 # CPO307 # CDI-3 # REL491
+Eric	Diaz ,	REH302
+Bobby	Powell ,	MER314 # PSE402 # BMD201 # COM307 # INV201
+Kathleen	Torres ,	FIN413 # MER312 # NUE205
+Phyllis	Davis ,	LCC101 # COM316 # IND513 # CCC302
+Judith	Gray ,	POR101
+Roger	Flores ,	PSE313 # TUR408
+Ruby	Jenkins ,	DGR301 # QUI101 # LOG403
+Craig	Alexander ,	MAT103 # ADM104 # ARQ100
+Earl	Cook ,	HIS301 # BMD407 # DER107 # DER104
+Adam	Turner ,	HIS101 # ARQ404
+Julia	Sanchez ,	LCC104 # BMD303
+Katherine	Phillips ,	CEHG-08 # IND521 # ARQ103 # QUI101
+Wanda	Patterson ,	FIN305 # SEL306 # FRA103 # ADM104
+Jeffrey	Foster ,	DCD202 # FIN208
+Christopher	Russell ,	COM403 # MER203 # TUR209 # TEL409 # DER410
+Jane	Evans ,	CDA-01 # CIV402 # PSE211 # CEER-10 # DER209
+William	Cox ,	COM406 # CIV409 # REH102 # HIS101
+Donald	Stewart ,	NADI 4 # DEP107 # MEC402 # DER315
+Jerry	Barnes ,	ING115 # FIS203
+Julie	Brown ,	DGR202 # CDI-2 # CEHG-05 # FIN305 # TLL300
+Samuel	Sanders ,	PSE213 # CIV402
+Nancy	Miller ,	ART107 # IND101
+Stephanie	Gonzales ,	DER104 # CCC411 # DGR202
+Irene	Perry ,	ADM103 # POR101 # SEL903 # MEC101
+Aaron	Roberts ,	BIO202 # DER320
+Joshua	Kelly ,	DER415 # CDA-01 # ING108 # CCC405
+Lillian	Jackson ,	POR103 # REL103
+Victor	Hall ,	IND405 # MEC408
+Shawn	Rodriguez ,	CIV306 # MAT106
+Lisa	Hill ,	HIS101 # CEER-12 # REH302 # COM214 # DER418
+Ann	Scott ,	NUE303 # NUE205 # CIV314
+Amanda	Martinez ,	CON302 # LSE402 # DEP110 # ARQ100 # INF405
+Philip	Edwards ,	COM308 # MAN102 # COM415 # TEL904 # ADM105
+Donna	Butler ,	CCC104
+Maria	Mitchell ,	ECO206
+Diana	Bailey ,	DER111 # ESP101 # TEL408
+Clarence	Morris ,	ARQ101 # IND303
+Bruce	Collins ,	IND406 # MER408 # TLL300
+Catherine	Clark ,	CIV404
+Sandra	King ,	COM315
+James	Johnson ,	IND309 # REL316 # DCD202 # CCC406 # CCC208
+Gary	Anderson ,	FIL101 # DER111 # COM315
+Evelyn	Baker ,	IND417
+Patricia	White ,	BMD402
+Fred	Nelson ,	ESP101 # ECO204
+Christine	Brooks ,	LCC104
+Alan	Lewis ,	ARQ222 # TEL902 # CDI-2 # FIN207
+Keith	Wright ,	COM423
+Charles	Gonzalez ,	CDA-04
+Stephen	Lopez ,	MEC101 # TLL306
+Lois	Cooper ,	LCI304 # MAT105 # COM415
+Michael	Young ,	DER107 # ING116 # ARQ429 # CGTH-05
+Paula	Coleman ,	COM208 # SEL301 # CIV103 # MEC402 # CIV202
+Sara	Martin ,	DGR301 # POR102 # IND303 # DGR400 # PSE310
+Nicholas	Price ,	ART106 # ING110 # MER309
+Jonathan	Howard ,	CSI-03
+Carolyn	Garcia ,	ART111 # IND502 # HIS101
+Brandon	Peterson ,	MAT304
+Janice	Parker ,	SEL900
+Mark	Henderson ,	MER209
+Joe	Bennett ,	SEL900 # DGR101 # COM423 # IND306
+Karen	Rivera ,	COM316 # CDA-01
+Annie	Washington ,	LCC102 # PSE202 # PSE108
+Kimberly	Powell ,	DEP117 # FIN401
+Shirley	Jenkins ,	MAT203 # ING113
+Alice	Patterson ,	ADM403 # ECO301 # CON203 # CEAO-09 # BMD406
+David	Garcia ,	ART111 # DCD206 # CCC406 # REL491
+Shawn	Diaz ,	DER404 # IND413 # REL316
+Jonathan	Peterson ,	FIL101 # DER315 # TLL311 # CDA-05 # CFP-03
+Kathleen	Brown ,	SEL900 # DGR101
+Martin	Rogers ,	COM213 # PSE107 # HIS101 # COM403
+Roger	Collins ,	CON204 # CCC505 # FIN408 # CEHG-05 # LCP104
+Jeremy	Flores ,	COM201 # DER202 # REL316 # PSE207 # CIV506
+Norma	Adams ,	PSE106
+Russell	Price ,	ECO201 # CCC407
+Heather	Edwards ,	ARQ438 # COM423 # ART108
+Rebecca	Griffin ,	MER309 # ARQ301 # CON312 # MAT301
+Mark	Bennett ,	CIV311 # CEER-13 # PSE212 # ARQ323
+Timothy	Scott ,	DER425 # DER212
+Samuel	Sanders ,	HIS101 # REL302 # MAT105 # TUR209 # NUE204
+Chris	Torres ,	TLL308
+Catherine	Miller ,	DER211
+Alan	Roberts ,	CIV402
+Jane	Richardson ,	POR101 # CFP-02
+Jack	Cox ,	DEP109 # CGTH-06 # DEP117
+Earl	Thomas ,	CCC208 # ADM403
+Sara	Evans ,	ITA102 # ARQ212 # CIV501 # TUR304 # ADM403
+Judy	Mitchell ,	COM209
+Sarah	Lopez ,	DER424 # BMD406 # TEL402 # LCC103
+Ashley	Williams ,	REL491 # FIN413 # ING115 # CIV403 # ALE101
+Karen	Perry ,	COM406
+Lillian	Ward ,	ARQ428
+Emily	Walker ,	CCC303 # PSE310 # COM213
+Henry	Wright ,	TLL301 # TUR103 # COM402 # CIV302 # BMD201
+Michael	Howard ,	DER110 # MAT107 # COM415 # ARQ344
+Sharon	Hernandez ,	MEC408
+Richard	Wood ,	COM415 # ING108
+Gary	Gonzales ,	CFP-05 # HIS101 # ALE102
+Amy	Clark ,	COM421 # NUE203 # ARQ222
+Raymond	Reed ,	BMD403 # ING113 # PSE308 # PSE304 # DER215
+Bruce	Alexander ,	MAT209
+Robert	Harris ,	DER313 # CIV404 # FIL101 # FIL102 # CEAO-10
+Jessica	Long ,	DCD302 # CCC305 # HIS301
+Brenda	Simmons ,	DER204 # CEOF-07
+Rachel	Barnes ,	PSE402
+Randy	Wilson ,	REL317 # CEPA-05 # CON312 # TLL300
+Kenneth	James ,	TUR408 # DER425 # HIS101 # ING116 # COM209
+Michelle	Thompson ,	CPSS-03 # MEC408 # ARQ205
+Victor	Butler ,	MER205 # CEOF-07 # DER107 # IND406 # MAT105
+Christine	Young ,	CPSS-02 # ESP103 # TUR208
+Patricia	Jackson ,	PSE110 # SEL401 # SEL407 # HIS101 # DGR100
+Louise	Davis ,	COM204
+Roy	Campbell ,	CIEC-07 # BMD406 # ARQ100 # MAN102 # REL317
+Judith	King ,	CIV302
+Marie	Phillips ,	PSE212 # DER202 # BMD301 # PSE208 # QUI101
+Joyce	Ramirez ,	HIS101 # CCC406
+Denise	Rivera ,	PSE402 # ADM407
+Eugene	Cooper ,	IND502
+Paul	Henderson ,	ART106
+Johnny	Morgan ,	DER425 # LSE402 # CDI-3 # PSE208
+Mary	Gonzalez ,	MER205 # DER110 # ART106 # COM406 # MER314
+Jason	Watson ,	SEL303 # HIS101 # COM209 # CFP-04
+Marilyn	Lewis ,	CDA-04
+Larry	Allen ,	LCC104
+Jacqueline	Moore ,	DER320 # MER202 # BIO201 # ARQ101 # CEHG-08
+Donna	Morris ,	DER212 # MER314 # PSE304 # TUR408 # REL305
+William	Carter ,	PSE310 # ECO401 # HIS101 # DER415 # ARQ438
+Ronald	Johnson ,	MER209
+Katherine	Nelson ,	ITA104 # DER405 # CFP-01 # CON312 # ARQ412
+Gloria	Bryant ,	CIV310 # TEL409 # CFP-03 # COM309 # IND404
+Douglas	Bailey ,	HIS301 # COM213 # CIV407 # BIO201
+Lois	Foster ,	CIV102 # PSE404 # DGR101
+Anna	Sanchez ,	TLL311 # DEP107 # ING106 # MER204 # DGR202
+Phyllis	Martin ,	CDI-1 # PSE310 # ARQ414
+Evelyn	Gray ,	MAT202 # NADG 4 # CICA-06 # REH101 # PSE106
+Linda	Smith ,	DEP117 # MAT301 # REL491 # ING113
+Paula	Robinson ,	CIV404 # ARQ429
+Maria	Brooks ,	HIS302 # HIS101 # MER204 # IND307 # ART106
+Kathryn	White ,	DER423 # ARQ333 # PSE110
+Dennis	Martinez ,	CICA-07
+Theresa	Cook ,	REL103 # SEL900 # COM104
+Adam	Rodriguez ,	ING106 # IND521
+Jennifer	Bell ,	MAN104
+Philip	Baker ,	ARQ504 # CON203 # CIV305 # DER415 # FIL101
+Nicholas	Anderson ,	SOC101 # EMP401 # ART108
+Jerry	Hughes ,	CIV402 # ADM402 # IND101
+Janice	Lee ,	HIS101
+Doris	Russell ,	ING116
+Daniel	Kelly ,	PSE109 # MER209 # DER403
+Lisa	Hall ,	TLL311
+Kathy	Green ,	TUR306 # CEOF-07 # FRA104 # DER322
+Jesse	Jones ,	ECO206 # CEAO-10
+Virginia	Parker ,	DCD101 # BMD303
+Albert	Washington ,	MEC306 # LCI302 # BMD408 # ADM104
+Beverly	Coleman ,	TUR410 # DGR100 # TEL902 # CDI-1 # DEP107
+Aaron	Hill ,	ADM303 # HIS101
+Harold	Perez ,	FIS201
+Edward	Taylor ,	FIS204 # ALE102
+Angela	Ross ,	DER113 # DEP109 # CPSS-03
+Craig	Stewart ,	REL316 # DGR102
+Eric	Turner ,	DER320
+Ryan	Murphy ,	MAT104 # CIV403 # CIV314 # CIV102 # CGTH-05
+Albert	Howard ,	BMD100 # CIV314 # ECO102
+Joyce	Perez ,	ESP103 # MAT201 # CIV311
+Julia	Lewis ,	ART106 # LCC101 # DER206
+Johnny	Bell ,	DER415 # SEL402 # CEER-12
+Chris	Miller ,	CIEC-09 # DER111 # BMD402 # ESP102 # PSE109
+Joan	Turner ,	ART111 # ARQ335
+Philip	Brooks ,	DCD206 # ARQ205 # PSE106
+Earl	Allen ,	ING112 # MER208 # CIV310
+Howard	Murphy ,	DEP101 # COM104 # INF301 # TLL314 # CCC207
+Laura	Thomas ,	CCC406 # DER114 # REL403 # MAT302 # NUE101
+Evelyn	Wilson ,	INF301 # CIV406
+Todd	Reed ,	TUR304 # DER315 # TUR306
+Craig	Patterson ,	ARQ429 # CICA-05
+Christine	Gonzalez ,	CIV301 # ART102 # DER305
+Andrea	Collins ,	HIS101 # BMD403 # MAT104 # DER219 # MER203
+Joshua	Sanders ,	DGR200
+Jimmy	Smith ,	CDI-2 # ING116 # CICA-05 # CIV406
+Amy	Williams ,	CEHG-05 # ALE102
+Harold	Campbell ,	DER322 # DEP117
+Kelly	Stewart ,	CCC305 # CPSS-03 # ARQ414 # PSE304 # MAN103
+Gloria	Nelson ,	TEL101 # FRA104
+Mildred	Morris ,	ARQ504 # MAT002
+Ernest	Simmons ,	NUE208 # ING107
+Wayne	Wright ,	COM406 # DER404 # CIV501 # COM402
+Roger	Brown ,	ARQ414 # LCI301 # BIO202
+Justin	Garcia ,	FIL102 # COM426
+Betty	White ,	CEHG-08 # REL319 # COM404 # DGR202 # SEL402
+Clarence	King ,	MEC301 # TEL402
+Edward	Young ,	ADM103 # CIV305
+William	Green ,	IND419 # ARQ301 # DER113
+Jane	Robinson ,	DGR405 # REH302
+Julie	Griffin ,	BMD403 # NUE302 # CIV506 # PSE103 # PSE214
+Frank	Flores ,	ING106 # ING105
+Elizabeth	Moore ,	INV201 # CIV304 # MER202
+Ronald	Bailey ,	COM208 # REL300 # PSE205 # CIV314 # IND419
+Samuel	Hall ,	MEC405 # TEL409 # LOG401 # SEL901 # COM218
+Kenneth	Perry ,	PSE301 # REL104 # MAN103
+Lori	Ross ,	NUE301
+Willie	Morgan ,	FIS201 # CCC401
+Irene	Ward ,	ING105 # MAT109 # DER312
+Jeffrey	Jones ,	PSE302
+Scott	Davis ,	DER404 # REL103 # PSE303 # ARQ428
+Jessica	Price ,	DER423 # ARQ401 # LCP208 # REL403 # CCC406
+Robert	Bennett ,	NUE301 # BIO201
+Emily	Alexander ,	CEER-12 # INV201 # DER313
+Judy	Scott ,	COM209
+Sandra	Bryant ,	DER113 # COM208 # CFP-05 # DER204
+Theresa	Hernandez ,	CCC407 # DER404 # ITA104
+Debra	Phillips ,	ARQ428 # MAN101
+Keith	Lopez ,	CCC208 # DER212
+Karen	Adams ,	NADG 4 # CCC104 # FIN402 # BMD402
+Shirley	Taylor ,	ARQ222 # SOC101 # IND307
+Margaret	Washington ,	FIN302 # BMD100 # CCC305 # FIN408
+Stephen	Anderson ,	PSE103 # ARQ401
+Jacqueline	Lee ,	REL491
+Dennis	Martin ,	NUE206 # ESP102
+James	Baker ,	CEHG-03 # PSE315 # NUE207
+Virginia	Rivera ,	BMD201 # REL403 # CIV504 # MER203
+Mary	Johnson ,	CICA-06
+Marie	Butler ,	MER203 # CIEC-07 # CIV302 # PSE312 # REL317
+Maria	Hill ,	CPO307 # CCC205 # COM103 # ADM407 # CIV301
+Tammy	Rogers ,	CCC104 # CDA-03 # DER207 # CCC106 # ECO206
+Patricia	Sanchez ,	CCC106 # LCI304 # MAT301
+Diane	Walker ,	IND306 # INV201
+Janet	Gray ,	DER203 # PSE205 # PSE303
+Kevin	Roberts ,	REL307 # PSE311 # TUR103 # CIV311
+Arthur	Martinez ,	CON203 # CEHG-05
+Fred	Diaz ,	CDA-04 # TLL314 # CEHG-10 # PSE405 # CCC501
+Raymond	Long ,	CCD-9 # TUR408 # INF201 # DGR405 # DER311
+Russell	Cooper ,	ARQ101 # FIN408 # COM406 # ESP102
+Teresa	Parker ,	ING111 # LCI302 # DER418
+Nicholas	Peterson ,	NUE205 # ARQ401
+Jason	James ,	COM409 # CON204 # ECO401
+Steven	Jenkins ,	DER218 # REL307 # ARQ323 # CEHG-10 # LCI501
+Paul	Carter ,	CCC207
+Judith	Russell ,	POR101 # DER412 # SEL308 # MER207
+Cheryl	Coleman ,	REL104 # ING108 # INF301 # IND419 # MER205
+Benjamin	Powell ,	BMD201 # DGR405 # TLL308 # CCC205
+Bruce	Foster ,	CEHG-08
+Henry	Hughes ,	PSE308 # REL491 # PSE211 # SEL307
+Martin	Clark ,	PSE208
+Phyllis	Richardson ,	TLL311 # NUE302 # ADM407 # IND413 # MEC402
+Daniel	Evans ,	COM309
+Carlos	Mitchell ,	NUE208 # LSE402 # FIN401 # CCC411
+Randy	Watson ,	CFP-04 # ARQ205 # CEAO-10 # MER209 # INF301
+Sara	Wood ,	ART111
+Melissa	Cox ,	PSE109 # DCD204 # CCC405
+John	Rodriguez ,	ARQ323
+Terry	Kelly ,	CIV312 # ALE102 # MER409 # COM406 # DER313
+Jonathan	Ramirez ,	CEHG-09 # PSE211 # COM308 # DER401
+Juan	Harris ,	EMP401 # NUE205
+Anna	Edwards ,	CCC205
+Stephanie	Jackson ,	COM421
+Barbara	Gonzales ,	ADM104 # ING113 # COM101
+Joseph	Cook ,	FIS202
+Denise	Henderson ,	CFP-04 # TEL402 # BMD408 # HIS101 # DER423
+Lisa	Torres ,	BIO201 # ING106 # IND406 # ARQ222 # BMD407
+Tina	Barnes ,	DER205 # COM204 # PSE301
+Katherine	Thompson ,	DER312 # REL307
+Dennis	Rogers ,	CCC405
+Frances	Turner ,	ECO301 # DER111 # COM215 # SEL402 # BIO203
+David	Jones ,	DER211
+Ronald	Bryant ,	CIV412
+Amanda	Williams ,	ADM402 # CEHG-08 # COM415
+Douglas	Thompson ,	ECO206
+Carolyn	Edwards ,	SEL307
+Julia	Robinson ,	NUE207
+Walter	Young ,	POR101 # CFP-04 # MAT304 # CCC208
+Heather	Evans ,	CIV302 # DER110
+Rose	Butler ,	DCD202
+Lillian	Powell ,	CIV303 # TEL408 # DCD303
+Timothy	Washington ,	PSE402
+Roger	Scott ,	DER311 # DER321 # TUR410 # LCC103
+Clarence	Watson ,	CIV413 # DGR100 # NUE302 # TUR306 # CSI-03
+Matthew	Long ,	FIN414 # REL316 # DER410
+Susan	Simmons ,	CFP-04 # CDA-05 # TLL311 # ARQ342 # DER313
+Ernest	Smith ,	CCC406 # COM406 # INF401
+Nancy	Hill ,	ALE102 # IND101 # SOC101
+Judy	Barnes ,	FIS203 # CIV303 # ADM105
+Shirley	Wilson ,	ARQ100 # CIV501
+Donna	Coleman ,	DER114 # DER311 # PSE407
+Juan	Green ,	PSE207 # NUE205 # PSE402
+James	Griffin ,	COM218 # LCI302
+Diana	Jackson ,	HIS101 # DER112
+Nicholas	Thomas ,	PSE205 # PSE208 # MEC300 # CIV402
+Bruce	Cooper ,	MER314 # MAT107
+Brandon	Sanchez ,	CPSS-02 # PSE203 # DER401 # MER208 # ARQ427
+Julie	Hernandez ,	DGR405 # ADM407 # CPO401 # REL314
+Harold	Alexander ,	CEAO-10 # SEL309
+Lois	Sanders ,	CIV202 # IND417 # ART106 # DER424 # MER312
+Laura	Nelson ,	LCI302
+Russell	Baker ,	PSE212 # DCD101 # TLL313 # TEL402 # ING112
+Jason	Garcia ,	REL491
+Victor	James ,	FIN402 # COM402 # DER217 # DEP110
+Lawrence	Patterson ,	CIV505
+Carlos	Carter ,	DER214 # TLL314 # DER404 # REH102
+Roy	Wood ,	CGTH-06 # PSE308 # CIV103 # DER218
+Philip	Perez ,	DER423 # COM415
+Fred	Morgan ,	ESP101 # LCI501
+Stephanie	Roberts ,	DER109
+Amy	Foster ,	DER217 # CCC411
+Patrick	Wright ,	MAT302 # FIL402 # ESP103 # IND502
+Albert	Rodriguez ,	SEL301 # DER114 # CDI-2 # DER209 # TLL301
+Catherine	Moore ,	CIV403 # CIV202 # CDA-05 # DEP117 # CIV503
+Paul	Howard ,	PSE405 # MAT106 # MER205 # CIV507
+Angela	Gonzalez ,	TEL902
+Brian	King ,	CFP-01 # COM406 # FIS202 # POR101
+Andrea	Parker ,	CIV310 # PSE203
+Anna	Hall ,	ARQ401 # NUE207 # TUR304 # FIL101 # CEER-12
+Harry	Hughes ,	CCD-9 # DER303 # DCD303 # BMD409
+Thomas	Reed ,	DER304
+Martha	Phillips ,	CEHG-09 # ARQ222 # DEP110 # CPSS-03 # SEL901
+Earl	Flores ,	ING105 # CCC501 # IND309
+Mildred	White ,	DER312 # POR102 # IND101 # COM312 # CCC406
+Mark	Gray ,	FIN402 # ARQ429 # DEP110 # CEHG-05
+Brenda	Bailey ,	ART102
+Johnny	Ramirez ,	DER217
+Eugene	Brooks ,	REL307 # COM409 # IND303 # ADM303
+Wanda	Rivera ,	IND405 # NUE204
+Phyllis	Stewart ,	CEAO-09 # MAN102
+Lori	Kelly ,	DER107 # ARQ342
+Daniel	Ward ,	COM309 # FIS204 # LCC102 # DER219
+Virginia	Bennett ,	MER314
+Kathy	Lewis ,	DGR100 # DER212 # FIS201
+Annie	Ross ,	CIV304 # SEL900 # MER203 # INF301 # TLL311
+Wayne	Johnson ,	NUE204 # PSE211 # MAT105 # DER306
+Eric	Jenkins ,	SEL308 # CEER-15
+Theresa	Allen ,	MER408 # COM204 # ART108 # NUE206
+Anthony	Davis ,	DGR400 # SEL904 # ARQ428 # DCD101
+Keith	Torres ,	CDI-2 # CPO307 # COM409
+Norma	Peterson ,	ING109
+Sara	Anderson ,	CIV302
+Ruth	Lee ,	NUE203 # CFP-05 # ECO401 # ARQ402 # DGR304
+Adam	Richardson ,	ARQ429 # CIV303 # CICA-05
+Bobby	Diaz ,	CIV202 # COM406
+Ann	Morris ,	REL103 # CCC504
+Michelle	Cook ,	DCD303 # TEL902
+John	Murphy ,	NADG 2 # NADI 2
+Tina	Adams ,	BMD201
+Karen	Bell ,	ING106
+Robert	Campbell ,	COM214 # ELE302
+Chris	Taylor ,	CIV305 # DGR102 # ADM103
+Anne	Henderson ,	HIS101 # CCC205
+Raymond	Perry ,	CGTH-06 # ESP102 # CSI-03
+Melissa	Martinez ,	DER111 # PSE103 # CCC501 # ART106 # DER205
+Richard	Russell ,	ESP101 # CIEC-07 # HIS101 # ECO401
+Gloria	Gonzales ,	NUE206 # CCC205
+Andrew	Miller ,	IND403 # TEL904
+Edward	Harris ,	POR103 # ING105 # PSE110 # ING107 # DER312
+Barbara	Lopez ,	DER315 # COM415
+Jennifer	Mitchell ,	DER305
+Kenneth	Brown ,	PSE107 # DGR100 # ART111 # FIN408 # DER206
+Howard	Price ,	HIS101 # LCI302
+Christopher	Clark ,	DCD201 # REL319 # CIV302 # CDA-02 # NUE205
+Joan	Collins ,	NUE203
+Linda	Martin ,	CPSS-01 # DER211 # CON308
+Evelyn	Walker ,	DER418 # CFP-03 # CEHG-07 # PSE405 # CDI-2
+Emily	Cox ,	ARQ402 # CIV314
+Thomas	Hill ,	LCI304 # CCD-4 # HIS101 # CGTH-05 # CDA-02
+Julie	Turner ,	NUE101 # DEP101 # DER212 # HIS301 # PSE311
+Emily	Murphy ,	DER110 # COM105 # DER401 # CCC405 # CCC303
+Angela	Jackson ,	CON302 # ARQ103 # LCP104
+Norma	Robinson ,	PSE303 # COM204
+Martin	Johnson ,	MEC408 # PSE107 # CIV404 # IND302 # CEER-15
+Michael	Coleman ,	HIS301 # DER306 # MAT105 # CCC406 # DER401
+Jane	Butler ,	COM201 # ARQ344 # CPSS-02
+Ernest	Davis ,	SEL902
+Roger	Kelly ,	NUE302 # ARQ323
+Kimberly	Brown ,	LCP104
+Stephen	Peterson ,	CIV301 # DER214 # CIV501
+Jesse	Cook ,	MER203 # DER204 # FIS201 # ADM303 # PSE304
+Judy	Allen ,	COM309 # ARQ438
+Jimmy	Alexander ,	COM215 # ARQ414 # HIS101 # ING112 # ART106
+Kelly	Gonzalez ,	ITA104 # BMD201 # CIEC-08 # DER412
+Pamela	Thomas ,	MAT304 # TUR408 # ITA104
+Theresa	Washington ,	COM105
+Cynthia	Henderson ,	NUE303
+Ruth	Miller ,	ECO205 # ING112 # DEP117 # FIS204
+Judith	Garcia ,	CDA-04 # DER424 # BMD408 # NUE301
+Tammy	Clark ,	IND306
+Diana	Watson ,	CCC401
+Phillip	Ross ,	ESP102 # REL103 # REL305 # TLL311
+Michelle	Cooper ,	CSI-03 # ART106
+Jonathan	King ,	MAT210
+Cheryl	Long ,	MAT102 # MER204
+Virginia	Young ,	CIV302
+Philip	Richardson ,	CIV413
+David	Parker ,	CIV404 # HIS101 # ARQ205
+Shirley	Green ,	ESP102 # FIL101 # NUE204 # TLL314 # ART111
+Linda	Harris ,	SEL406 # CIV302 # SEL407 # IND101
+Doris	Sanchez ,	ING111
+Juan	Baker ,	MAT303 # NUE301 # TEL409 # NADG 4 # PSE202
+Bobby	Torres ,	HIS101 # ARQ325 # FIS203 # IND419 # MER408
+Kevin	Thompson ,	IND404 # MER401
+Jose	Griffin ,	COM213 # NUE203
+Justin	Rogers ,	TLL314 # COM423
+Lisa	Bailey ,	PSE109 # ARQ100 # CIEC-07 # REL403 # MEC306
+Ryan	Lopez ,	SEL301
+Ralph	Hall ,	NUE303
+Andrew	Howard ,	DER105 # CEER-12 # DGR400 # MEC301
+Kathryn	Wilson ,	CFP-03 # COM406 # HIS101
+Andrea	Perez ,	CFP-04 # LOG401 # MAT209
+Kenneth	Gray ,	COM306 # HIS101 # ART106 # ADM103
+Amy	Perry ,	ING109 # LCP105 # MAT107 # REL314 # CPO307
+Louis	Lewis ,	DCD202 # MAT210 # CCC208 # REL491 # INF301
+Clarence	Patterson ,	FIS201 # MAT104 # CFP-03 # COM207 # ART106
+Carlos	Collins ,	REL491
+Mildred	Flores ,	NUE205 # ARQ344 # DER104
+Daniel	Carter ,	DER207 # REL491 # MAT302 # ADM103
+Ann	Anderson ,	BMD409 # CCC306 # ARQ100 # ARQ438 # DER205
+Joshua	Edwards ,	CEHG-05 # CCC406 # ECO301 # CICA-07
+Jerry	Ward ,	TEL902 # MAT203
+Frances	Powell ,	LCC101 # MEC101 # LCI302 # ADM104
+Samuel	Phillips ,	COM201 # PSE405 # CIV314
+William	Nelson ,	LCP105 # ELE302
+Nicole	Diaz ,	SEL902
+Scott	Campbell ,	SEL303 # DER310
+Annie	Rodriguez ,	INV201 # MAN101 # MER408 # ING112
+Marie	Williams ,	COM101 # ARQ103 # SEL401 # HIS101 # DER402
+Marilyn	Bell ,	PSE202 # CIV412
+John	Lee ,	NUE206 # FIN208 # SEL406
+Anna	Sanders ,	ECO205 # DER112 # ARQ504
+Keith	James ,	CIV407 # IND303 # REL302 # ING109
+Roy	Walker ,	CEAO-09 # DER205 # CIEC-09 # NUE207 # MEC300
+Stephanie	Morris ,	CON308 # NADIA1
+Mark	Evans ,	DER219 # DEP110 # COM315 # CDA-04 # REL302
+Arthur	Martinez ,	ARQ342 # ART106 # HIS301 # DER405 # PSE308
+Kathleen	Bennett ,	MER208
+Jeffrey	Russell ,	FIL101 # CIV302
+Teresa	Foster ,	ITA103 # DCD204
+Gregory	Jones ,	SEL401 # ESP101 # MAN103 # CIV503 # HIS101
+Brian	Mitchell ,	CCC303
+Sara	Hughes ,	COM402 # CEAO-10
+Nicholas	Taylor ,	HIS101 # CIV507 # REL319
+Julia	Wood ,	ARQ241 # COM308 # COM204 # REL491
+Jacqueline	Moore ,	ECO102 # CON302 # IND405 # ARQ212 # DEP109
+Russell	Reed ,	ADM102 # PSE315 # COM315 # CCC411 # CEAO-08
+Harold	Adams ,	COM403 # ARQ101 # PSI202 # INV201
+Eric	Gonzales ,	ECO205 # LCC102 # DER322
+Jennifer	Martin ,	ADM105 # ARQ404 # INF405 # CON210 # FRA104
+Patricia	Cox ,	MER207 # SEL402
+Wayne	Scott ,	COM409 # CEHG-03
+Jason	Rivera ,	MAT102 # DER104 # CIV505 # COM421 # COM213
+Louise	Roberts ,	LOG401 # MAT201 # TLL301 # MAN102
+Willie	White ,	NUE301 # ADM407
+Nancy	Smith ,	COM303 # PSE404
+Wanda	Brooks ,	IND405
+Karen	Price ,	REL314 # CIV504 # CEHG-10
+Matthew	Barnes ,	CEER-12 # TLL300 # TLL301 # ARQ303 # REL104
+Joyce	Jenkins ,	CCD-4 # ING106
+Diane	Bryant ,	TEL904 # DER105 # TLL301 # BMD402 # PSE308
+Bruce	Stewart ,	COM403 # CIV506 # DCD302 # MAT304 # ARQ205
+Shawn	Morgan ,	PSE313
+Chris	Simmons ,	HIS101 # ARQ342
+George	Hernandez ,	IND101
+Martha	Ramirez ,	IND413 # LCP104 # LCC104 # PSE207
+Paula	Wright ,	CIV406
+Maria	Harris ,	DER211 # CIV404 # CFP-03 # ARQ342 # POR101
+Henry	White ,	CON210 # TLL308 # CCC501 # POR101 # MAT210
+Frank	Howard ,	ESP102 # DER114 # REH101 # ADM104
+Harold	Campbell ,	TLL308 # ARQ438
+Evelyn	Morris ,	CIV102 # DER107 # NUE203 # COM213 # PSE313
+Melissa	Perry ,	PSE212 # ESP102 # CIV306
+Howard	Lewis ,	ADM104
+Willie	Wright ,	COM208 # ARQ429
+Alan	Jones ,	IND309 # CDA-02 # SOC101 # PSE203 # REL319
+Joshua	Clark ,	CIV102 # NUE301 # DER415
+Roger	Evans ,	DER310 # TEL902 # SEL407
+Johnny	Scott ,	CDA-01 # IND418 # TEL408
+Patrick	Kelly ,	ADM105 # MAT105
+Brian	Russell ,	MEC301 # CEAO-08 # NUE205
+Tina	Cox ,	ESP102 # NADG 4 # REL403
+Kathy	Sanchez ,	CON210 # CFP-04 # BMD408 # IND418
+Jacqueline	Williams ,	FIL402 # REH302 # ESP101 # CCC401 # ARQ429
+Arthur	Phillips ,	COM214 # MAT301 # PSE405 # MAN102 # DGR202
+Sandra	Moore ,	REL491 # ING107 # DER112
+Wayne	Bryant ,	REL302
+Cheryl	Hill ,	IND413
+Christina	Richardson ,	CDA-03 # SEL307
+Terry	Gonzalez ,	ART106
+Theresa	Gray ,	REL317 # CDA-02 # ARQ342 # CCC104
+Donald	Davis ,	CEHG-09
+Paul	Collins ,	COM308 # SEL900
+Nicholas	Johnson ,	ADM301
+Jane	Long ,	CFP-03 # CEER-11 # DCD302 # LCP105
+Judy	Martinez ,	NADI 4 # COM215 # LCI301 # CCC205 # ARQ222
+Sarah	Rodriguez ,	MAT209 # DCD302 # ING106 # FIL101
+Shawn	Wilson ,	DER403 # DER418 # BMD303 # FRA104
+Susan	Butler ,	MAT205 # DER304 # CDI-3 # CSI-03 # IND418
+Anne	Ramirez ,	TUR209 # INV201 # CEER-15 # DER107
+Virginia	Simmons ,	ARQ335 # COM213 # BMD201
+Juan	Lopez ,	LCI501
+Victor	Bennett ,	CGTH-06 # FIN401 # POR101 # ING113
+Katherine	Smith ,	SEL307 # CIV406 # SEL301 # LCC101 # COM404
+Annie	Adams ,	CDI-1 # TEL904
+Nancy	King ,	DEP101 # POR101
+Gary	Robinson ,	COM310 # MER304 # CDA-05 # LCC104
+Nicole	Jackson ,	ART105 # FRA104 # IND521
+Rebecca	Miller ,	CEER-12
+Carolyn	Cook ,	IND306 # MER314
+Kathleen	Morgan ,	DER410
+Gloria	Diaz ,	COM103
+Ruby	Nelson ,	MER207 # ECO201
+Ruth	Young ,	IND403
+Ann	Patterson ,	NUE301 # IND502 # MER304 # TEL408 # BMD304
+Phillip	Walker ,	DER402
+Sara	Edwards ,	DGR102 # DER321 # DCD202 # CIV406 # FIL101
+Amy	Reed ,	FIN413 # ARQ412 # DER306
+Randy	Anderson ,	PSE313 # CDA-03
+Todd	Murphy ,	BMD301 # NADG 2
+Judith	Price ,	COM309 # DER410 # COM406 # ARQ438 # ADM103
+Lillian	Lee ,	ADM301 # CPSS-01
+Raymond	Hernandez ,	CEOF-07 # HIS101 # BIO203 # ECO201
+Carol	Torres ,	MEC408 # PSE308
+Kelly	Stewart ,	ARQ428 # PSE312 # LCC102 # CIEC-09 # PSE303
+Samuel	Foster ,	NADIA1 # HIS101 # BIO203 # CIV506 # CIV406
+Beverly	Peterson ,	CEHG-08 # DER204
+Ernest	Turner ,	COM403 # PSE311 # FRA101 # MER408
+Louis	Allen ,	CIV403 # MER304 # ADM301 # CPSS-03
+Russell	Thomas ,	SEL904
+Betty	Garcia ,	ALE101 # NUE204 # DER401
+Peter	Cooper ,	BMD304 # IND309 # SOC101 # TUR408 # COM204
+Joan	Hughes ,	CCC401 # COM415 # FIL101 # PSE214 # COM404
+Sharon	Parker ,	QUI101
+Joyce	Coleman ,	DER311 # BMD405 # DER313 # TLL306 # COM307
+Marilyn	Carter ,	COM105 # PSE106 # REL305 # PSE202 # HIS101
+Lisa	Washington ,	BMD303 # TUR410 # CIV401 # CEAO-10
+Marie	Bailey ,	ART108 # ESP103 # ITA103
+Larry	Flores ,	ESP102 # FIN303 # DER113 # CCC405
+John	Barnes ,	CCC505 # LCI301
+Donna	Ward ,	PSE212 # ART108 # CEAO-08 # ECO206 # CCC104
+Julie	Rogers ,	LCP105 # COM215 # FIN402 # ADM402 # PSE316
+Lawrence	James ,	CCC303
+Martin	Griffin ,	DGR101 # NUE101 # FIN408 # MEC405 # CCC303
+Paula	Sanders ,	INF301 # CIV406 # ESP102
+Anthony	Ross ,	SEL309 # MER202 # CCC404 # DER207 # HIS101
+Walter	Jenkins ,	ARQ100
+Brandon	Henderson ,	MAT302 # SEL903 # FIS203 # HIS301 # MER401
+Andrea	Hall ,	ECO206 # DGR301 # CIV311
+Patricia	Watson ,	DGR400
+Helen	Baker ,	CCD-4
+Jimmy	Brown ,	CCC208 # COM218 # CIV402
+Barbara	Powell ,	DER211 # FRA101
+Keith	Roberts ,	ART102 # CEER-12 # ECO103 # DEP107 # ING113
+Jeffrey	Brooks ,	NUE203 # CON204 # CDA-01 # PSE208 # CIV406
+Dorothy	Thompson ,	CIV403 # ARQ101 # COM213 # TEL101
+Michael	Alexander ,	CCC205 # CDI-2 # COM309 # CCC505
+Stephanie	Wood ,	COM316 # MER205 # FIS205 # PSE308 # ARQ504
+Douglas	Green ,	LOG301 # ITA104
+Christopher	Rivera ,	MEC405 # DER313
+Pamela	Bell ,	DGR304
+Andrew	Gonzales ,	CCC306 # ARQ412 # TUR408
+Brenda	Perez ,	LSE402 # ADM104 # ECO205
+Jesse	Martin ,	CDA-02 # COM215
+Clarence	Taylor ,	PSE103
+Mildred	Mitchell ,	BIO203 # ARQ402 # REL300

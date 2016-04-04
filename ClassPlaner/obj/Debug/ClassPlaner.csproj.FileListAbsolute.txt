@@ -1,0 +1,13 @@
+c:\users\ithamar\documents\visual studio 2015\Projects\ClassPlaner\ClassPlaner\bin\Debug\ClassPlaner.exe.config
+c:\users\ithamar\documents\visual studio 2015\Projects\ClassPlaner\ClassPlaner\bin\Debug\ClassPlaner.exe
+c:\users\ithamar\documents\visual studio 2015\Projects\ClassPlaner\ClassPlaner\bin\Debug\ClassPlaner.pdb
+c:\users\ithamar\documents\visual studio 2015\Projects\ClassPlaner\ClassPlaner\obj\Debug\ClassPlaner.csprojResolveAssemblyReference.cache
+c:\users\ithamar\documents\visual studio 2015\Projects\ClassPlaner\ClassPlaner\obj\Debug\ClassPlaner.Form1.resources
+c:\users\ithamar\documents\visual studio 2015\Projects\ClassPlaner\ClassPlaner\obj\Debug\ClassPlaner.Properties.Resources.resources
+c:\users\ithamar\documents\visual studio 2015\Projects\ClassPlaner\ClassPlaner\obj\Debug\ClassPlaner.ViewTeachers.resources
+c:\users\ithamar\documents\visual studio 2015\Projects\ClassPlaner\ClassPlaner\obj\Debug\ClassPlaner.csproj.GenerateResource.Cache
+c:\users\ithamar\documents\visual studio 2015\Projects\ClassPlaner\ClassPlaner\obj\Debug\ClassPlaner.exe
+c:\users\ithamar\documents\visual studio 2015\Projects\ClassPlaner\ClassPlaner\obj\Debug\ClassPlaner.pdb
+C:\Users\Ithamar\documents\visual studio 2015\Projects\ClassPlaner\ClassPlaner\obj\Debug\ClassPlaner.ViewClasses.resources
+C:\Users\Ithamar\documents\visual studio 2015\Projects\ClassPlaner\ClassPlaner\obj\Debug\ClassPlaner.ViewStudents.resources
+C:\Users\Ithamar\documents\visual studio 2015\Projects\ClassPlaner\ClassPlaner\obj\Debug\ClassPlaner.ViewTheMagic.resources
