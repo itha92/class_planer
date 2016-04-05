@@ -38,11 +38,13 @@ namespace ClassPlaner
 
         private void ViewTheMagic_Load(object sender, EventArgs e)
         {
-
+            
             Dictionary<string, Dictionary<string, string>> maestros_horas_clases = GetTeachers();
             
             List<string> horas = GetHours();
             List< Hora_Clase_Maestro> l = new List<Hora_Clase_Maestro>();
+
+            Dictionary<string, int> students_by_class = GetStudentsByClass();
 
             foreach (var item in horas)
             {
@@ -63,19 +65,45 @@ namespace ClassPlaner
             listView1.View = View.Details;
             Random r = new Random();
             l.OrderBy(o => o.hora);
-            string[] row = new string[4];
+            string[] row = new string[5];
+            int cont = 0;
+            string tmp = "07:00 AM"; 
             foreach (var item in l)
             {
+
+                while (!String.Equals(item.hora.Trim(), tmp.Trim()))
+                {
+                    tmp = item.hora.Trim();
+                    cont = 0;
+                }
                 row[0] = item.hora;
                 row[2] = item.nombre_maestro;
                 row[1] = item.codigo_clase;
-                row[3] = r.Next(10, 40).ToString();
+                row[3] = students_by_class[item.codigo_clase.Trim()].ToString();
+                if (cont < 10)
+                {
+                    row[4] = "R0" + cont;
+                }
+                else
+                {
+                    row[4] = "R" + cont;
+                }
+                cont++;
+                
                 var listViewItem = new ListViewItem(row);
                 listView1.Items.Add(listViewItem);
 
                 //Console.WriteLine("Hora: " + item.hora + " Maestro: "+ item.nombre_maestro + " Clase: "+ item.codigo_clase);
             }
-         
+            
+            
+            /*foreach (var item in students_by_class)
+            {
+                Console.WriteLine("clase: " + item.Key + " estudiantes: " + item.Value);
+            }*/
+            //load class by students
+
+
 
             // dictionary key hora value clase
             // dictionary key maestros value clase
@@ -84,9 +112,66 @@ namespace ClassPlaner
 
         }
 
+        public Dictionary<string, int> GetStudentsByClass()
+        {
+            string path = "C:\\Users\\wmejia\\Desktop\\class_planer\\ClassPlaner\\Estudiantes_Clases.txt";
+
+            Dictionary<string, int> students_by_class = new Dictionary<string, int>();
+            // <nombre < hora, clase>>
+            
+            try
+            {
+                StreamReader sr = File.OpenText(path);
+                string s = "";
+
+                string[] tmp2;
+                string[] cl;
+                Dictionary<int, string> clases = GetClasses();
+               
+                var n = clases.OrderBy(o=> o.Value).ToList();
+                
+                while ((s = sr.ReadLine()) != null)
+                {
+                    tmp2 = s.Split(',');
+                    
+                    foreach (var item in clases)
+                    {
+                        cl = tmp2[1].Split('#');
+                        for (int i = 0; i < cl.Length; i++)
+                        {
+                            //Console.WriteLine(cl[i]);
+                            if (String.Equals(cl[i].Trim(), item.Value.Trim() ) )
+                            {
+                                if (students_by_class.ContainsKey(item.Value))
+                                {
+                                    int cont = students_by_class[item.Value];
+                                    students_by_class[item.Value] = cont + 1;
+                                }
+                                else
+                                {
+                                    students_by_class.Add(item.Value.Trim(), 1);
+                                }
+                            }
+                        }
+                    }
+                    s = "";
+                    tmp2 = new string[0];
+
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.StackTrace);
+                //Console.WriteLine("File not found");
+            }
+            //Console.WriteLine("Cool 3");
+            return students_by_class;
+        }
+
+
         public Dictionary<string, Dictionary<string, string>> GetTeachers()
         {
-            string path = "C:\\Users\\Ithamar\\Documents\\Visual Studio 2015\\Projects\\ClassPlaner\\ClassPlaner\\Maestro_Clases.txt";
+            string path = "C:\\Users\\wmejia\\Desktop\\class_planer\\ClassPlaner\\Maestro_Clases.txt";
             
             Dictionary<string, Dictionary<string, string>> maestro_clases_hora = new Dictionary<string, Dictionary<string, string>>();
             // <nombre < hora, clase>>
@@ -130,7 +215,7 @@ namespace ClassPlaner
 
         public List<string> GetHours()
         {
-            string clase_path = "C:\\Users\\Ithamar\\Documents\\Visual Studio 2015\\Projects\\ClassPlaner\\ClassPlaner\\Horarios.txt";
+            string clase_path = "C:\\Users\\wmejia\\Desktop\\class_planer\\ClassPlaner\\Horarios.txt";
 
             List<string> horas = new List<string>();
             try
@@ -154,7 +239,7 @@ namespace ClassPlaner
 
         public Dictionary<int, string> GetClasses()
         {
-            string clase_path = "C:\\Users\\Ithamar\\Documents\\Visual Studio 2015\\Projects\\ClassPlaner\\ClassPlaner\\Clases.txt";
+            string clase_path = "C:\\Users\\wmejia\\Desktop\\class_planer\\ClassPlaner\\Clases.txt";
 
             Dictionary<int, string> clases_dic = new Dictionary<int, string>();
 

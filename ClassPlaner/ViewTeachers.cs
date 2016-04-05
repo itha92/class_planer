@@ -18,7 +18,7 @@ namespace ClassPlaner
             InitializeComponent();
 
             List<string> maestros_clases = new List<string>();
-            string path = "C:\\Users\\Ithamar\\Documents\\Visual Studio 2015\\Projects\\ClassPlaner\\ClassPlaner\\Maestro_Clases.txt";
+            string path = "C:\\Users\\wmejia\\Desktop\\class_planer\\ClassPlaner\\Maestro_Clases.txt";
             try
             {
                 StreamReader sr = File.OpenText(path);
@@ -79,6 +79,11 @@ namespace ClassPlaner
         private void button5_Click(object sender, EventArgs e)
         {
             this.Dispose();
+        }
+
+        private void ViewTeachers_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

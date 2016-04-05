@@ -11,3 +11,22 @@ c:\users\ithamar\documents\visual studio 2015\Projects\ClassPlaner\ClassPlaner\o
 C:\Users\Ithamar\documents\visual studio 2015\Projects\ClassPlaner\ClassPlaner\obj\Debug\ClassPlaner.ViewClasses.resources
 C:\Users\Ithamar\documents\visual studio 2015\Projects\ClassPlaner\ClassPlaner\obj\Debug\ClassPlaner.ViewStudents.resources
 C:\Users\Ithamar\documents\visual studio 2015\Projects\ClassPlaner\ClassPlaner\obj\Debug\ClassPlaner.ViewTheMagic.resources
+C:\Users\wmejia\Desktop\class_planer\ClassPlaner\bin\Debug\ClassPlaner.exe.config
+C:\Users\wmejia\Desktop\class_planer\ClassPlaner\obj\Debug\ClassPlaner.exe
+C:\Users\wmejia\Desktop\class_planer\ClassPlaner\obj\Debug\ClassPlaner.pdb
+C:\Users\wmejia\Desktop\class_planer\ClassPlaner\bin\Debug\ClassPlaner.exe
+C:\Users\wmejia\Desktop\class_planer\ClassPlaner\bin\Debug\ClassPlaner.pdb
+C:\Users\wmejia\Desktop\class_planer\ClassPlaner\bin\Debug\mscorlib.dll
+C:\Users\wmejia\Desktop\class_planer\ClassPlaner\bin\Debug\normidna.nlp
+C:\Users\wmejia\Desktop\class_planer\ClassPlaner\bin\Debug\normnfc.nlp
+C:\Users\wmejia\Desktop\class_planer\ClassPlaner\bin\Debug\normnfd.nlp
+C:\Users\wmejia\Desktop\class_planer\ClassPlaner\bin\Debug\normnfkc.nlp
+C:\Users\wmejia\Desktop\class_planer\ClassPlaner\bin\Debug\normnfkd.nlp
+C:\Users\wmejia\Desktop\class_planer\ClassPlaner\obj\Debug\ClassPlaner.csprojResolveAssemblyReference.cache
+C:\Users\wmejia\Desktop\class_planer\ClassPlaner\obj\Debug\ClassPlaner.Form1.resources
+C:\Users\wmejia\Desktop\class_planer\ClassPlaner\obj\Debug\ClassPlaner.Properties.Resources.resources
+C:\Users\wmejia\Desktop\class_planer\ClassPlaner\obj\Debug\ClassPlaner.ViewClasses.resources
+C:\Users\wmejia\Desktop\class_planer\ClassPlaner\obj\Debug\ClassPlaner.ViewStudents.resources
+C:\Users\wmejia\Desktop\class_planer\ClassPlaner\obj\Debug\ClassPlaner.ViewTeachers.resources
+C:\Users\wmejia\Desktop\class_planer\ClassPlaner\obj\Debug\ClassPlaner.ViewTheMagic.resources
+C:\Users\wmejia\Desktop\class_planer\ClassPlaner\obj\Debug\ClassPlaner.csproj.GenerateResource.Cache

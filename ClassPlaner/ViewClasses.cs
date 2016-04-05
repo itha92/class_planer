@@ -21,7 +21,7 @@ namespace ClassPlaner
         private void ViewClasses_Load(object sender, EventArgs e)
         {
 
-            string path = "C:\\Users\\Ithamar\\Documents\\Visual Studio 2015\\Projects\\ClassPlaner\\ClassPlaner\\Clases.txt";
+            string path = "C:\\Users\\wmejia\\Desktop\\class_planer\\ClassPlaner\\Clases.txt";
 
             try
             {

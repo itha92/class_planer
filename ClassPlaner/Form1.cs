@@ -49,7 +49,7 @@ namespace ClassPlaner
 
                 string s = "";
                 string clases = "";
-                string path = "C:\\Users\\Ithamar\\Documents\\Visual Studio 2015\\Projects\\ClassPlaner\\ClassPlaner\\Maestro_Clases.txt";
+                string path = "C:\\Users\\wmejia\\Desktop\\class_planer\\ClassPlaner\\Maestro_Clases.txt";
 
                 StreamWriter sw = new StreamWriter(path);
 
@@ -96,7 +96,7 @@ namespace ClassPlaner
             {
                 string s = "";
                 string clases = "";
-                string path = "C:\\Users\\Ithamar\\Documents\\Visual Studio 2015\\Projects\\ClassPlaner\\ClassPlaner\\Estudiantes_Clases.txt";
+                string path = "C:\\Users\\wmejia\\Desktop\\class_planer\\ClassPlaner\\Estudiantes_Clases.txt";
 
                 StreamWriter sw = new StreamWriter(path);
 
@@ -140,8 +140,8 @@ namespace ClassPlaner
             
             List<Estudiante> lista_estudiantes = new List<Estudiante>();
 
-            string estudiantes_path = "C:\\Users\\Ithamar\\Documents\\Visual Studio 2015\\Projects\\ClassPlaner\\ClassPlaner\\Nombres.txt";
-            string clases_path = "C:\\Users\\Ithamar\\Documents\\Visual Studio 2015\\Projects\\ClassPlaner\\ClassPlaner\\Clases.txt";
+            string estudiantes_path = "C:\\Users\\wmejia\\Desktop\\class_planer\\ClassPlaner\\Nombres.txt";
+            string clases_path = "C:\\Users\\wmejia\\Desktop\\class_planer\\ClassPlaner\\Clases.txt";
 
             try
             {
@@ -216,9 +216,9 @@ namespace ClassPlaner
 
             List<Maestro> lista_maestros = new List<Maestro>();
 
-            string maestros_path = "C:\\Users\\Ithamar\\Documents\\Visual Studio 2015\\Projects\\ClassPlaner\\ClassPlaner\\Maestros.txt";
-            string clases_path = "C:\\Users\\Ithamar\\Documents\\Visual Studio 2015\\Projects\\ClassPlaner\\ClassPlaner\\Clases.txt";
-            string horas_path = "C:\\Users\\Ithamar\\Documents\\Visual Studio 2015\\Projects\\ClassPlaner\\ClassPlaner\\Horarios.txt";
+            string maestros_path = "C:\\Users\\wmejia\\Desktop\\class_planer\\ClassPlaner\\Maestros.txt";
+            string clases_path = "C:\\Users\\wmejia\\Desktop\\class_planer\\ClassPlaner\\Clases.txt";
+            string horas_path = "C:\\Users\\wmejia\\Desktop\\class_planer\\ClassPlaner\\Horarios.txt";
 
             try
             {

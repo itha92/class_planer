@@ -21,7 +21,7 @@ namespace ClassPlaner
         private void ViewStudents_Load(object sender, EventArgs e)
         {
             List<string> estudiante_clases = new List<string>();
-            string path = "C:\\Users\\Ithamar\\Documents\\Visual Studio 2015\\Projects\\ClassPlaner\\ClassPlaner\\Estudiantes_Clases.txt";
+            string path = "C:\\Users\\wmejia\\Desktop\\class_planer\\ClassPlaner\\Estudiantes_Clases.txt";
             try
             {
                 StreamReader sr = File.OpenText(path);
