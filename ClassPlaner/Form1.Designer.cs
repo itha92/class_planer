@@ -153,7 +153,7 @@
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(278, 79);
             this.button6.TabIndex = 7;
-            this.button6.Text = "See the Magic";
+            this.button6.Text = "Ver Horarios";
             this.button6.UseVisualStyleBackColor = true;
             this.button6.Click += new System.EventHandler(this.button6_Click);
             // 

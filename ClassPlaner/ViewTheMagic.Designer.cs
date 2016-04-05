@@ -69,6 +69,8 @@
             // columnHeader4
             // 
             this.columnHeader4.Text = "No. Alumnos";
+            this.columnHeader4.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.columnHeader4.Width = 100;
             // 
             // button5
             // 
